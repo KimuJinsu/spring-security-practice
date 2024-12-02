@@ -1,4 +1,4 @@
-# Spring Security Project 🚀
+# Spring Security Project 🚀.
 
 이 프로젝트는 **Spring Boot 3**을 기반으로 **Spring Security**의 주요 개념과 기능들을 학습하는 내용을 담고 있습니다. 인증, 권한 설정, URL 접근 제어 등의 다양한 보안 기능을 구현하며, `ch2_1`부터 `ch8_1`까지 단계별로 학습을 진행했습니다.
 
